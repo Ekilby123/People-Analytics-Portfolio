@@ -1,2 +1,2 @@
-# Tenure Group Turnover Analysis
-More coming soon!
+# Understanding the Drivers of Turnover in the Sales Team
+The Sales department at a mid-sized SaaS company has seen a 25% turnover rate over the past year, significantly higher than the company average. Leadership is concerned about the cost of turnover and wants to understand the key drivers behind it. I've been asked to use data to uncover patterns, identify at-risk groups, and provide actionable recommendations.
